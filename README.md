@@ -23,12 +23,19 @@ to take proactive action.
 customer-churn-prediction/
 
 ├── 02_eda.ipynb                  # Exploratory Data Analysis
+
 ├── 03_feature_engineering.ipynb  # Preprocessing & Feature Engineering
+
 ├── 04_modeling.ipynb             # Model Training & Evaluation
+
 ├── streamlit_app.py              # Live Web App
+
 ├── churn_model.pkl               # Trained Model
+
 ├── scaler.pkl                    # Feature Scaler
+
 ├── model_columns.pkl             # Model Feature Columns
+
 └── requirements.txt              # Dependencies
 
 ---
