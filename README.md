@@ -146,6 +146,14 @@ probability score with risk level (Low/Medium/High).
 
 ---
 
+## 🚀 Future Improvements
+
+- Migrate model storage from local files to AWS S3
+- Set up automated retraining pipeline using AWS Lambda
+- Add CI/CD pipeline using GitHub Actions
+
+---
+
 ## 👤 Author
 
 **Vanshika Gupta**  
